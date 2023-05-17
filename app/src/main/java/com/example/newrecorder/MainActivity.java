@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 //        recordPath = getExternalFilesDir("").getAbsolutePath();
         Button btn = findViewById(R.id.btn1);
 //        EditText editText = findViewById(R.id.et);
-
+//
         //点击事件
 
     }
